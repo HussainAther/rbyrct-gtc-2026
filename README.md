@@ -1,5 +1,13 @@
-# RBYRCT-GTC-2025
+# RBYRCT-GTC-2026
 # 🩻 RBYRCT: Reconstructing CT Smarter, Faster, Safer
+
+🩻 Can we make cancer screening 100x faster and safer?
+
+I’m entering my project, RBYRCT, for the #NVIDIAGTC Golden Ticket! We used @NVIDIADeveloper CUDA to accelerate CT reconstruction by orders of magnitude. By optimizing the MART algorithm on GPUs, we’re enabling low-dose, high-accuracy imaging for safer breast cancer detection.
+
+Check out the open-source work here: https://github.com/HussainAther/rbyrct-gtc-2025
+
+Cc: @ctnzr @NVIDIAGTC
 
 ## The Vision: Safer, Earlier Breast Cancer Detection
 Breast cancer screening saves lives, but current CT scans often demand high radiation doses for clear images, posing a risk, especially to younger patients. Additionally, traditional imaging methods are frequently uncomfortable, invasive, and involve painful compression.

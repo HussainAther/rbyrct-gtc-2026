@@ -5,7 +5,7 @@
 
 I’m entering my project, RBYRCT, for the #NVIDIAGTC Golden Ticket! We used @NVIDIADeveloper CUDA to accelerate CT reconstruction by orders of magnitude. By optimizing the MART algorithm on GPUs, we’re enabling low-dose, high-accuracy imaging for safer breast cancer detection.
 
-Check out the open-source work here: https://github.com/HussainAther/rbyrct-gtc-2025
+Check out the open-source work here: https://github.com/HussainAther/rbyrct-gtc-2026
 
 Cc: @ctnzr @NVIDIAGTC
 
@@ -74,8 +74,8 @@ Think of CT like taking **many X-ray “shadows”** of an object from different
 Clone the repo and install in editable mode:
 
 ```bash
-git clone https://github.com/yourusername/rbyrct-gtc-2025.git
-cd rbyrct-gtc-2025
+git clone https://github.com/yourusername/rbyrct-gtc-2026.git
+cd rbyrct-gtc-2026
 python -m pip install -e .
 ````
 
@@ -146,11 +146,11 @@ PRs welcome — this is a hackathon/competition prototype but we want it to grow
 If this work helps you, please cite:
 
 ```
-@software{rbyrct_gtc2025,
-  title        = {RBYRCT-GTC-2025: GPU-Accelerated CT Reconstruction},
+@software{rbyrct_gtc2026,
+  title        = {RBYRCT-GTC-2026: GPU-Accelerated CT Reconstruction},
   author       = {Your Name},
-  year         = {2025},
-  url          = {https://github.com/yourusername/rbyrct-gtc-2025}
+  year         = {2026},
+  url          = {https://github.com/yourusername/rbyrct-gtc-2026}
 }
 ```
 
@@ -172,6 +172,6 @@ MIT License.
 
 ## NVIDIA GTC Submission
 
-This project is part of the **NVIDIA GTC 2025 Golden Ticket Challenge**.
+This project is part of the **NVIDIA GTC 2026 Golden Ticket Challenge**.
 We showcase how **GPU-powered reconstruction** can transform breast cancer screening with **OSS-first innovation**.
 
